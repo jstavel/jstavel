@@ -13,29 +13,23 @@ mindmap
     DevOps
       Infrastructure as Code
       CI/CD Evolution
-      [[Me and DevOps]]
 	Python
       Automation
       Data Pipelines
-      [[Me and Python]]
     Clojure
       Functional Paradigms
       Lisp Philosophy
-      [[Me and Clojure]]
     Leadership
       Team Growth Dynamics
       Mindful Productivity
-      [[Me and Leadership]]
-
 ```
-
 ---
 
 ## 🚀 Current Focus Areas
 
 ### 🐍 [Me and Python](https://www.google.com/search?q=./Me_and_Python.org)
 
-Focusing on clean architecture and the **Suzuki D16AA** project integration. I use Python to bridge the gap between mechanical data and digital insights.
+I use Python to bridge the gap between mechanical data and digital insights.
 
 ### Functional [Me and Clojure](https://www.google.com/search?q=./Me_and_Clojure.org)
 
@@ -53,11 +47,11 @@ My philosophy on team health. I advocate for environments where "every brain is 
 
 ## 🛠️ Personal Projects & Hobbies
 
-* **Chov koz:** My hobby project that keeps me grounded and provides a different kind of "mindful task".
+* **My Goats:** My hobby project that keeps me grounded and provides a different kind of "mindful task".
 * **Suzuki S-Cross Optimization:** Implementing DEFA preheating and engine treatments (Metabond) to maximize efficiency.
 
 ---
 
-📫 **Let's connect:** [My LinkedIn Profile](https://www.google.com/search?q=YOUR_LINKEDIN_URL_HERE)
+📫 **Let's connect:** [My LinkedIn Profile](https://www.linkedin.com/in/janstavel/)
 
 ```
