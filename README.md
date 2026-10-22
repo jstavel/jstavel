@@ -1,4 +1,4 @@
-# Jan Stável — Platform / Automation Engineer, Clojure, AI-assisted engineering
+# Jan Stável — Platform / Automation Engineer, Clojure, spec-first engineering
 
 > "I believe the core requirement for a team to grow is that each brain in the team is learning. I thrive on mindful tasks and constant challenges; once a task becomes routine, I look for the next peak to climb."
 
@@ -6,9 +6,10 @@
 building in public: every project below has its specification, ADRs, and tests
 in the repo — the way of working is as much the deliverable as the code.
 
-I work **AI-first**: AI agents do the building, I do the architecture, review,
-and verification — through artifacts in git, not chat. Each repo shows the
-pattern: spec → ADR → plan → implementation → independent verification.
+I work **spec-first**: the specification is the contract between me, the AI
+agents that do the building, and the reviewer — frozen after approval,
+renegotiated explicitly, never drifted. Each repo shows the same pattern:
+spec → ADR → plan → implementation → independent verification.
 
 ---
 
@@ -52,12 +53,13 @@ not a demo dataset.
 
 ## 🧭 How I work
 
-- **Spec-first:** the specification is the interface between me, the AI agents,
-  and reviewers — frozen after approval, renegotiated explicitly, never drifted.
+- **Spec-first:** the specification is the interface between me, the AI agents
+  that build, and reviewers — frozen after approval, renegotiated explicitly,
+  never drifted.
 - **Artifacts in git:** decisions (ADRs), plans, and verification records are
   versioned and addressable; "trust me" is not an artifact.
-- **AI-assisted, human-owned:** agents build; I own the problem definition,
-  the review, and the evidence that it works.
+- **Human-owned review:** the builder can be an agent; the problem definition,
+  the review, and the evidence that it works are always mine.
 - **Failure is data:** each repo's history includes what was rejected and why.
 
 ---
