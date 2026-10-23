@@ -73,7 +73,7 @@ not a demo dataset.
 
 ## 🛠️ Core skills
 
-Clojure · ClojureScript · Python · Rust (basic) · TypeScript · Terraform/OpenTofu ·
+Clojure · ClojureScript · Python · Rust (basic) · TypeScript · Terraform ·
 GCP (Cloud Run, Artifact Registry, Secret Manager, Firestore) · Ansible ·
 Podman/containers · CI/CD · Playwright · Robot Framework · DSPy · FastAPI · Linux
 
@@ -88,4 +88,5 @@ where the feedback loop is measured in seasons, not sprints.
 
 ## 📫 Contact
 
-[LinkedIn — linkedin.com/in/janstavel](https://www.linkedin.com/in/janstavel/)
+[LinkedIn — linkedin.com/in/janstavel](https://www.linkedin.com/in/janstavel/) ·
+[CV — PDF](https://jstavel.github.io/cv-en.pdf)
