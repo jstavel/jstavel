@@ -90,6 +90,31 @@ Podman/containers · CI/CD · Playwright · Robot Framework · DSPy · FastAPI �
 
 ---
 
+## 🧰 More projects
+
+Everything else is public too — grouped, one line each, specs in the repos.
+
+**Clojure / functional**
+[rhsm-web-qe](https://github.com/jstavel/rhsm-web-qe) — Clojure web test suite for RHSM (2016)
+
+**Python**
+[cdbazar](https://github.com/jstavel/cdbazar) — Django e-shop, in production 18+ years ·
+[psp-validator](https://github.com/jstavel/psp-validator) — payment-slip batch validator ·
+[edeposit.amqp.isbn](https://github.com/jstavel/edeposit.amqp.isbn) and
+[edeposit.search](https://github.com/jstavel/edeposit.search) — long-term-preservation
+middleware for a national library
+
+**TypeScript**
+[plaud-pipeline](https://github.com/jstavel/plaud-pipeline) — voice recordings to
+append-only org notes: one workflow over several tools
+
+**Archival**
+[rhsm-cockpit-jest-qe](https://github.com/jstavel/rhsm-cockpit-jest-qe) ·
+[validator](https://github.com/jstavel/validator) ·
+[plone-4.2-buildout](https://github.com/jstavel/plone-4.2-buildout)
+
+---
+
 ## 🐐 Beyond code
 
 I keep goats and maintain a smallholding — a different kind of mindful task,
