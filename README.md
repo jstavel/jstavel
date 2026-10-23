@@ -95,7 +95,8 @@ Podman/containers · CI/CD · Playwright · Robot Framework · DSPy · FastAPI �
 Everything else is public too — grouped, one line each, specs in the repos.
 
 **Clojure / functional**
-[rhsm-web-qe](https://github.com/jstavel/rhsm-web-qe) — Clojure web test suite for RHSM (2016)
+[test-clj.testng](https://github.com/RedHatQE/test-clj.testng) — Clojure bridge libraries
+over a Java/TestNG suite (Red Hat era; upstream in the RedHatQE org)
 
 **Python**
 [cdbazar](https://github.com/jstavel/cdbazar) — Django e-shop, in production 18+ years ·
