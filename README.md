@@ -117,10 +117,14 @@ over a Java/TestNG suite (Red Hat era; upstream in the RedHatQE org)
 [edeposit.search](https://github.com/jstavel/edeposit.search) — long-term-preservation
 middleware for a national library
 
-**Archival**
-[rhsm-cockpit-jest-qe](https://github.com/jstavel/rhsm-cockpit-jest-qe) ·
-[validator](https://github.com/jstavel/validator) ·
-[plone-4.2-buildout](https://github.com/jstavel/plone-4.2-buildout)
+**Mentored**
+[Differ](https://github.com/Differ-GSOC/differ) — Java text-diffing library; its
+Google Summer of Code 2013 student was mine to mentor
+
+**Unpublished (OSVČ era)**
+Perl SAX transformation of a reseller's very large XML into product feeds for
+zbozi.cz and heureka.cz — hundreds of cross-references in the tree made streaming
+SAX the only viable way through the file. No public repository.
 
 ---
 
