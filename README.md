@@ -1,6 +1,11 @@
 # Jan Stavel — Platform / Automation Engineer, spec-first engineering
 
-> "I believe the core requirement for a team to grow is that each brain in the team is learning. I thrive on mindful tasks and constant challenges; once a task becomes routine, I look for the next peak to climb."
+> Stories bring the power to know; success fuels the power to grow.
+> Trust builds joy, and shared joy is twice the joy.
+>
+> Python and Perl by hand, Clojure by heart, TypeScript with agents, Terraform with respect.
+> I build systems whose output can be verified, not merely demonstrated.
+> I cherish the fleeting moments that remind me I am still growing.
 
 24 years on Linux. Ten years of enterprise test automation (Red Hat). Currently
 building in public: every project below has its specification, ADRs, and tests
@@ -70,6 +75,10 @@ not a demo dataset.
 - **Failure is data:** each repo's history includes what was rejected and why.
 - **Published claims are measured:** the demo answers from a pinned corpus, and
   its evaluation gate is pre-registered against a fixed reference.
+
+> "I believe the core requirement for a team to grow is that each brain in the
+> team is learning. I thrive on mindful tasks and constant challenges; once a
+> task becomes routine, I look for the next peak to climb."
 
 ---
 
