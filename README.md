@@ -19,7 +19,8 @@ spec → ADR → plan → implementation → independent verification.
 A spec-driven RAG pipeline (DSPy, Python/FastAPI) deployed to **GCP Cloud Run**
 with Terraform, a guardrail layer (answer cache, rate limits, hard quota,
 deterministic over-claiming guard), and contract-based evaluation against a
-pinned baseline. Live demo + case study: *coming soon*.
+pinned baseline. Live demo: [jstavel.github.io/janbot](https://jstavel.github.io/janbot/)
+— the spec, ADRs and evaluation records are in the repo.
 
 *What it demonstrates:* end-to-end ownership — evaluation design, infrastructure
 as code, and the discipline to ship a baseline over an unverified optimization.
@@ -61,6 +62,8 @@ not a demo dataset.
 - **Human-owned review:** the builder can be an agent; the problem definition,
   the review, and the evidence that it works are always mine.
 - **Failure is data:** each repo's history includes what was rejected and why.
+- **Published claims are measured:** the demo answers from a pinned corpus, and
+  its evaluation gate is pre-registered against a fixed reference.
 
 ---
 
