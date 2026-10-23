@@ -1,4 +1,4 @@
-# Jan Stável — Platform / Automation Engineer, Clojure, spec-first engineering
+# Jan Stavel — Platform / Automation Engineer, spec-first engineering
 
 > "I believe the core requirement for a team to grow is that each brain in the team is learning. I thrive on mindful tasks and constant challenges; once a task becomes routine, I look for the next peak to climb."
 
@@ -75,7 +75,7 @@ not a demo dataset.
 
 Clojure · ClojureScript · Python · Rust (basic) · TypeScript · Terraform/OpenTofu ·
 GCP (Cloud Run, Artifact Registry, Secret Manager, Firestore) · Ansible ·
-Podman/containers · CI/CD · Playwright · Robot Framework · DSPy · FastAPI · Linux (24 years)
+Podman/containers · CI/CD · Playwright · Robot Framework · DSPy · FastAPI · Linux
 
 ---
 
