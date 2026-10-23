@@ -11,6 +11,10 @@ agents that do the building, and the reviewer — frozen after approval,
 renegotiated explicitly, never drifted. Each repo shows the same pattern:
 spec → ADR → plan → implementation → independent verification.
 
+Infrastructure gets the same discipline: Terraform with respect — plan
+before apply, pinned artifacts, and an awareness that every change has a
+blast radius beyond my own console.
+
 ---
 
 ## 🚀 Flagship projects
