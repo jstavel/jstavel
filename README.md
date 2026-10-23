@@ -43,7 +43,9 @@ ZeroMQ transport, Kafka event sourcing, chaos testing.
 
 ### [gtd-org](https://github.com/jstavel/gtd-org) — GTD in org-mode
 Personal productivity system ("mind like water") implemented in org-mode and
-Clojure. In daily use for years.
+Clojure — built and refined over years. Today it is in maintenance rather than
+daily use; its living part is the Plaud-downloader component (ClojureScript)
+that pulls my own voice recordings into a searchable knowledge base.
 
 *What it demonstrates:* the tooling philosophy — build tools, not tickets.
 
