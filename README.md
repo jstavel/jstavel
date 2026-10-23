@@ -112,7 +112,7 @@ over a Java/TestNG suite (Red Hat era; upstream in the RedHatQE org)
 
 **Python**
 [cdbazar](https://github.com/jstavel/cdbazar) — Django e-shop, in production 18+ years ·
-[psp-validator](https://github.com/jstavel/psp-validator) — payment-slip batch validator ·
+[psp-validator](https://github.com/jstavel/psp-validator) — validates PSP packages for the National Library's digitisation workflow ([docs](https://psp-validator.readthedocs.io/en/latest/), METS metadata) ·
 [edeposit.amqp.isbn](https://github.com/jstavel/edeposit.amqp.isbn) and
 [edeposit.search](https://github.com/jstavel/edeposit.search) — long-term-preservation
 middleware for a national library
