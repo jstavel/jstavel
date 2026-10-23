@@ -61,6 +61,18 @@ structured knowledge base — my own second brain, running on real data.
 *What it demonstrates:* AI engineering applied to a real personal workload,
 not a demo dataset.
 
+### [plaud-pipeline](https://github.com/jstavel/plaud-pipeline) — voice notes → knowledge base
+TypeScript/Node pipeline that turns a growing pile of voice recordings into an
+append-only Org-mode ledger, which is then triaged, transcribed and ingested into
+a corpus. Built around one principle — *one workflow, many tools* (ADR 0012):
+every step is a **capability** with its own specification, contracts and tests,
+independent of the tool that implements it, so a capability can be swapped,
+scripted, or done by a human in Emacs. Currently v1 of one capability (register
+in ledger) with CI; the rest are specified, not yet built.
+
+*What it demonstrates:* decomposing a workflow into swappable capabilities —
+spec-first in TypeScript — and stating the implemented slice honestly.
+
 ---
 
 ## 🧭 How I work
@@ -104,10 +116,6 @@ over a Java/TestNG suite (Red Hat era; upstream in the RedHatQE org)
 [edeposit.amqp.isbn](https://github.com/jstavel/edeposit.amqp.isbn) and
 [edeposit.search](https://github.com/jstavel/edeposit.search) — long-term-preservation
 middleware for a national library
-
-**TypeScript**
-[plaud-pipeline](https://github.com/jstavel/plaud-pipeline) — voice recordings to
-append-only org notes: one workflow over several tools
 
 **Archival**
 [rhsm-cockpit-jest-qe](https://github.com/jstavel/rhsm-cockpit-jest-qe) ·
