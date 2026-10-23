@@ -1,4 +1,4 @@
-# Jan Stavel — Platform / Automation Engineer, spec-first engineering
+# Jan Stavel — Platform / Automation Engineer, Clojure, spec-first engineering
 
 > Stories bring the power to know; success fuels the power to grow.
 > Trust builds joy, and shared joy is twice the joy.
