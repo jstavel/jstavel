@@ -96,7 +96,7 @@ spec-first in TypeScript — and stating the implemented slice honestly.
 
 ## 🛠️ Core skills
 
-Clojure · ClojureScript · Python · Rust (basic) · TypeScript · Terraform ·
+Clojure · ClojureScript · Python · Rust (basic) · TypeScript · JavaScript · Terraform ·
 GCP (Cloud Run, Artifact Registry, Secret Manager, Firestore) · Ansible ·
 Podman/containers · CI/CD · Playwright · Robot Framework · DSPy · FastAPI · Linux
 
