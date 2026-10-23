@@ -71,7 +71,7 @@ not a demo dataset.
 
 Clojure · ClojureScript · Python · Rust (basic) · TypeScript · Terraform/OpenTofu ·
 GCP (Cloud Run, Artifact Registry, Secret Manager, Firestore) · Ansible ·
-Podman/containers · CI/CD · Playwright · Robot Framework · DSPy · FastAPI · Linux (24 years)
+Podman/containers · CI/CD · Playwright · Robot Framework · DSPy · FastAPI · Linux
 
 ---
 
