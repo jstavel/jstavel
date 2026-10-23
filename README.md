@@ -117,9 +117,11 @@ over a Java/TestNG suite (Red Hat era; upstream in the RedHatQE org)
 [edeposit.search](https://github.com/jstavel/edeposit.search) — long-term-preservation
 middleware for a national library
 
-**Mentored**
-[Differ](https://github.com/Differ-GSOC/differ) — Java text-diffing library; its
-Google Summer of Code 2013 student was mine to mentor
+**Mentored / National Library era**
+[Differ](https://github.com/Differ-GSOC/differ) — a gate for entering a
+long-term-preservation archive: reads image metadata through several CLI tools,
+compares what they report, and decides what may be ingested (later a Google
+Summer of Code 2013 project I mentored)
 
 **Unpublished (OSVČ era)**
 Perl SAX transformation of a reseller's very large XML into product feeds for
